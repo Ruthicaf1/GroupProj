@@ -40,4 +40,6 @@
 #Normalised the reviews_from_critics, reviews_from_users and votes columns to generate the proposed metascore
 #Calculated the average of the normalised columns
 #developed a method that select a movie from a list based on the user input (genre and year or its combination)
+#plotted the top 10 movies based on our proposed metascore
+#plotted the least 10 movies based on our metascore
 #plotted a scatter plot of years versus our proposed metascore
